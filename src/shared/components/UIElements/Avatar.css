@@ -1,0 +1,14 @@
+.avatar{
+    width: 30%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.avatar img {
+    display: block;
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+}
