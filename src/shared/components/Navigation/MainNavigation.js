@@ -40,6 +40,7 @@ const MainNavigation = props => {
                 <NavLinks/>
             </nav>
         </MainHeader>
+        
         </React.Fragment>
     );
 };
